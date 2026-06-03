@@ -1,4 +1,4 @@
 # GDG
 
 More descriptions.
-Added rules for issue #5.
+See issue #5 for the rules.
